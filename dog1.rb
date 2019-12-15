@@ -12,4 +12,4 @@ class Person
   kayne = Person.new("Kayne")
   kayne.name
 
-  puts "#{kayne}"
+  
