@@ -16,5 +16,7 @@ end
 
   kayne = Person.new("Kayne")
 
-  kayne.name = "Yeezy"
-binding
+  kayne.name
+
+kayne.name = "Yeezy"
+kayne.name
