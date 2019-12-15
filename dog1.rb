@@ -20,3 +20,5 @@ end
 
 kayne.name = "Yeezy"
 kayne.name
+
+kayne.instance_variable_set(:@name, "Yeezy")
