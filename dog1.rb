@@ -1,4 +1,4 @@
-
+require "pry"
 class Person
   def initialize(name)
     @name = name
@@ -10,6 +10,6 @@ class Person
   end
 
   kayne = Person.new("Kayne")
-  kayne.name
 
-  
+  kayne.name = "Yeezy"
+binding
